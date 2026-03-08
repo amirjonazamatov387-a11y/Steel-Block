@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "reinforcedglass",
+  "version": "${version}",
+  "name": "Reinforced Glass",
+  "description": "Adds reinforced glass and panes with high toughness and blast resistance.",
+  "authors": [
+    "Jules"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/reinforcedglass/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.reinforcedglass.ReinforcedGlass"
+    ],
+    "client": [
+      "com.example.reinforcedglass.ReinforcedGlassClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

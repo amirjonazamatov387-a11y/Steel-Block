@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reinforcedglass:block/red_reinforced_glass"
+  }
+}

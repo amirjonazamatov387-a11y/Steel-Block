@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "reinforcedglass:block/orange_reinforced_glass",
+    "pane": "reinforcedglass:block/orange_reinforced_glass"
+  }
+}

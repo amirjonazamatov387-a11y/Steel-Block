@@ -1,0 +1,15 @@
+.gradle
+build
+*.log
+*.txt
+.project
+.classpath
+.settings
+.idea
+*.iml
+*.ipr
+*.iws
+out
+.DS_Store
+generate_textures.py
+generate_assets.py
