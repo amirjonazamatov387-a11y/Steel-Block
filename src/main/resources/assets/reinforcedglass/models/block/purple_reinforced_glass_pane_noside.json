@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_noside",
+  "textures": {
+    "edge": "reinforcedglass:block/purple_reinforced_glass",
+    "pane": "reinforcedglass:block/purple_reinforced_glass"
+  }
+}

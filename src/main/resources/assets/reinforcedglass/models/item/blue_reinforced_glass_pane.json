@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "reinforcedglass:block/blue_reinforced_glass"
+  }
+}
